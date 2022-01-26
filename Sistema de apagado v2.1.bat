@@ -24,7 +24,8 @@ if not %mainselect%==5 goto INICIO
 :INFO
 cls
 echo Copyright (C) Netzahualcoyotl Humberto Plata Rodriguez el 16/12/2021
-echo Inspirado en el video "" de YAMPOL
+echo Inspirado en el video "TRUCOS con tu PC más mórbidos y épicos" de YAMPOL
+echo https://www.youtube.com/watch?v=DYKgx3sssU8
 echo En memoria de Abril Estefania Sandoval Miramontes, una buena amiga, y una gran persona
 pause
 cls
